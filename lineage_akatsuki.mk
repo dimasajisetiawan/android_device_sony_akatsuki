@@ -13,7 +13,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 # Setup keystore
 -include vendor/lineage-priv/keys/keys.mk
 
-PRODUCT_NAME := rising
+PRODUCT_NAME := rising_akatsuki
 PRODUCT_DEVICE := akatsuki
 PRODUCT_MANUFACTURER := Sony
 PRODUCT_BRAND := Sony
